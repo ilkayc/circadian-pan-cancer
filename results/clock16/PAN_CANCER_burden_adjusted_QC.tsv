@@ -1,0 +1,8 @@
+Metric	Value
+Input_rows	10593
+Unique_patients	10593
+Cancer_types	32
+Missing_values_total	0
+Negative_non_CLOCK16_burden	0
+CLOCK16_status_true	1165
+CLOCK16_status_false	9428

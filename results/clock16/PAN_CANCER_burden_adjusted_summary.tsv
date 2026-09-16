@@ -1,0 +1,9 @@
+Metric	Value
+Patients	10593.0
+Cancer_types	32.0
+CLOCK16_mutated_patients	1165.0
+CLOCK16_wildtype_patients	9428.0
+Global_MannWhitney_P	0.0
+Cancer_types_tested	32.0
+FDR<0.05	24.0
+FDR<0.10	24.0

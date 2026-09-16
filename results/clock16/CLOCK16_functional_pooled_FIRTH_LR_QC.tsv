@@ -1,0 +1,4 @@
+Endpoint	N	Cases	Controls	Reduced_Converged	Full_Converged	LR_Valid
+Nonsynonymous	10593	854	9739	True	True	True
+Damaging	10593	0	10593	True	True	True
+Strong_Damaging	10593	0	10593	True	True	True

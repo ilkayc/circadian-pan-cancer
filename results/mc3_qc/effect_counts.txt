@@ -1,0 +1,17 @@
+1540290 Missense_Mutation
+628530 Silent
+242913 3'UTR
+120847 Nonsense_Mutation
+87486 Intron
+74267 Frame_Shift_Del
+67094 5'UTR
+41226 RNA
+38220 Splice_Site
+21620 Frame_Shift_Ins
+18286 3'Flank
+13376 5'Flank
+8476 In_Frame_Del
+2183 Translation_Start_Site
+1610 Nonstop_Mutation
+ 751 In_Frame_Ins
+ 160 large deletion

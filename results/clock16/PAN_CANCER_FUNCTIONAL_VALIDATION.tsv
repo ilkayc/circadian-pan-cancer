@@ -1,0 +1,11 @@
+Metric	Value
+Primary_samples	10593
+Primary_patients	10593
+CLOCK16_mutation_patients	1165
+Effect_class_patients	1165
+Functional_burden_patients	854
+CLOCK16_genes	16
+Gene_cancer_rows	512
+Significant_gene_cancer_associations	66
+Significant_enriched_associations	37
+Significant_depleted_associations	29

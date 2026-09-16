@@ -1,0 +1,4 @@
+effect_class	Mutation_Rows	Unique_Patients	SIFT_NonMissing	PolyPhen_NonMissing
+nonsynonymous	1536	854	1301	1303
+other	378	243	0	0
+silent	508	368	0	0

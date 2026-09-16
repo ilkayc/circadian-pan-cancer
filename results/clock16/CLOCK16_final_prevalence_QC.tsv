@@ -1,0 +1,13 @@
+QC_Metric	Value
+Total_Patients	10593.0
+Unique_Patients	10593.0
+Cancer_Types	32.0
+Total_CLOCK16_Mutated	1165.0
+Total_CLOCK16_Wild_Type	9428.0
+Sum_Cancer_Patients	10593.0
+Sum_Cancer_Mutated	1165.0
+Sum_Cancer_Wild_Type	9428.0
+Overall_Prevalence	0.109978287548381
+Overall_Prevalence_Percent	10.9978287548381
+Invalid_Prevalence	0.0
+Invalid_CI	0.0

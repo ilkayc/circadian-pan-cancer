@@ -1,0 +1,33 @@
+cancer_type	Total_Primary_Patients	CLOCK16_Mutated_Patients	Prevalence_Percent	Lower_95CI	Upper_95CI
+skin cutaneous melanoma	104	33	31.731	22.949	41.584
+bladder urothelial carcinoma	412	116	28.155	23.862	32.766
+uterine corpus endometrioid carcinoma	547	154	28.154	24.42	32.125
+stomach adenocarcinoma	478	105	21.967	18.334	25.95
+lung squamous cell carcinoma	506	107	21.146	17.667	24.967
+cervical & endocervical cancer	308	62	20.13	15.796	25.049
+lung adenocarcinoma	520	90	17.308	14.153	20.839
+esophageal carcinoma	185	31	16.757	11.678	22.934
+colon adenocarcinoma	461	76	16.486	13.214	20.194
+liver hepatocellular carcinoma	377	53	14.058	10.711	17.982
+head & neck squamous cell carcinoma	528	72	13.636	10.825	16.862
+kidney papillary cell carcinoma	291	38	13.058	9.409	17.481
+uterine carcinosarcoma	57	5	8.772	2.91	19.296
+adrenocortical cancer	92	7	7.609	3.114	15.05
+sarcoma	261	19	7.28	4.44	11.135
+diffuse large B-cell lymphoma	48	3	6.25	1.308	17.196
+rectum adenocarcinoma	167	9	5.389	2.494	9.984
+breast invasive carcinoma	1101	58	5.268	4.024	6.757
+kidney clear cell carcinoma	536	26	4.851	3.193	7.027
+prostate adenocarcinoma	498	23	4.618	2.95	6.85
+kidney chromophobe	66	3	4.545	0.947	12.714
+thymoma	124	5	4.032	1.322	9.159
+testicular germ cell tumor	150	6	4	1.482	8.503
+pancreatic adenocarcinoma	185	7	3.784	1.535	7.64
+glioblastoma multiforme	594	22	3.704	2.335	5.554
+mesothelioma	87	3	3.448	0.717	9.748
+pheochromocytoma & paraganglioma	179	5	2.793	0.913	6.398
+cholangiocarcinoma	36	1	2.778	0.07	14.529
+brain lower grade glioma	516	13	2.519	1.348	4.27
+uveal melanoma	80	2	2.5	0.304	8.741
+thyroid carcinoma	507	6	1.183	0.436	2.558
+ovarian serous cystadenocarcinoma	592	5	0.845	0.275	1.96

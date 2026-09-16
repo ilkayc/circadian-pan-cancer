@@ -1,0 +1,1 @@
+Cancer_Type	Gene1	Gene2	N	CLOCK16_Mutated_Patients	Mean_CLOCK16_Genes_Per_Patient	Observed_CoMutation	Permutation_Expected	Observed_Expected_Ratio	Permutation_SD	Permutation_Z	Permutation_P	Direction	FDR_within_cancer	FDR_global	Robust_Significant

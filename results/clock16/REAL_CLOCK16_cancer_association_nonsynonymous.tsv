@@ -1,0 +1,33 @@
+phenotype	cancer_type	total_primary_patients	mutated_patients	nonmutated_patients	prevalence_percent	odds_ratio	lower_95CI	upper_95CI	fisher_p	FDR
+Nonsynonymous_CLOCK16	adrenocortical cancer	7	0	7	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	bladder urothelial carcinoma	116	0	116	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	brain lower grade glioma	13	0	13	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	breast invasive carcinoma	58	0	58	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	cervical & endocervical cancer	62	0	62	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	cholangiocarcinoma	1	0	1	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	colon adenocarcinoma	76	0	76	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	diffuse large B-cell lymphoma	3	0	3	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	esophageal carcinoma	31	0	31	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	glioblastoma multiforme	22	0	22	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	head & neck squamous cell carcinoma	72	0	72	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	kidney chromophobe	3	0	3	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	kidney clear cell carcinoma	26	0	26	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	kidney papillary cell carcinoma	38	0	38	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	liver hepatocellular carcinoma	53	0	53	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	lung adenocarcinoma	90	0	90	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	lung squamous cell carcinoma	107	0	107	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	mesothelioma	3	0	3	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	ovarian serous cystadenocarcinoma	5	0	5	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	pancreatic adenocarcinoma	7	0	7	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	pheochromocytoma & paraganglioma	5	0	5	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	prostate adenocarcinoma	23	0	23	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	rectum adenocarcinoma	9	0	9	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	sarcoma	19	0	19	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	skin cutaneous melanoma	33	0	33	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	stomach adenocarcinoma	105	0	105	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	testicular germ cell tumor	6	0	6	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	thymoma	5	0	5	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	thyroid carcinoma	6	0	6	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	uterine carcinosarcoma	5	0	5	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	uterine corpus endometrioid carcinoma	154	0	154	0	0	0	Inf	1	1
+Nonsynonymous_CLOCK16	uveal melanoma	2	0	2	0	0	0	Inf	1	1

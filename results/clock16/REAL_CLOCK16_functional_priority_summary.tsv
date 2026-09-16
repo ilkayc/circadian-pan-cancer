@@ -1,0 +1,7 @@
+Functional_Class	Events	Patients	Patient_Gene_Combinations
+likely_benign	407	320	395
+strong_damaging	401	294	384
+prediction_missing	245	198	236
+damaging	197	156	188
+discordant_SIFT_deleterious	154	136	153
+discordant_PolyPhen_damaging	132	115	130

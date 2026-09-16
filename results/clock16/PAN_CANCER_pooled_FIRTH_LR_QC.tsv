@@ -1,0 +1,21 @@
+Metric	Value
+Input rows	10593
+Unique patients	10593
+Cancer types	32
+Full model parameters	33
+Reduced model parameters	32
+Full model rank	33
+Reduced model rank	32
+Full model fitted	True
+Reduced model fitted	True
+Full log-likelihood	-2449.267489921638
+Reduced log-likelihood	-3199.0033701694983
+LR statistic	1499.4717604957204
+LR degrees_of_freedom	1
+LR P-value	0.0
+OR	3.6083314145905567
+CI low	3.3008684528438716
+CI high	3.9444333464133132
+Mutation burden variable	log1p(non_CLOCK16_mutations)
+Burden standardized before fitting	True
+No negative non-CLOCK16 burden	True

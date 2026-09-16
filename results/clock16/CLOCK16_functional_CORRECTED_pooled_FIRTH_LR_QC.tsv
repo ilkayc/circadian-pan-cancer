@@ -1,0 +1,12 @@
+Metric	Value
+Total patients	10593
+Total mutation rows	2422
+Nonsynonymous rows	1536
+Nonsynonymous patients	854
+Damaging mutation rows	900
+Damaging patients	563
+Strong damaging mutation rows	608
+Strong damaging patients	402
+Models attempted	3
+Models completed	3
+FDR < 0.05	3

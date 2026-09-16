@@ -1,0 +1,9 @@
+# Raw heavy data files
+data/*.gz
+data/*.tar
+data/*.bam
+*.RData
+*.Rhistory
+.DS_Store
+__pycache__/
+logs/*.log

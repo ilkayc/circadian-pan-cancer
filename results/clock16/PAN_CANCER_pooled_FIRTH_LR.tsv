@@ -1,0 +1,2 @@
+Analysis	N	Cancer_Types	CLOCK16_Mutated	CLOCK16_Wild_Type	Reference_Cancer	OR_per_log1p_non_CLOCK16_mutation	CI95_Low	CI95_High	Beta	SE	Firth_LR_Statistic	Firth_LR_P	Direction	Reduced_LogLik	Full_LogLik	Full_Model_Iterations	Reduced_Model_Iterations	Global_MW_P	Global_Mutated_Median_Burden	Global_WT_Median_Burden
+Pooled pan-cancer Firth LR	10593	32	1165	9428	adrenocortical cancer	3.6083314145905567	3.3008684528438716	3.9444333464133132	1.283245453467108	0.045438700045269065	1499.4717604957204	0.0	Positive	-3199.0033701694983	-2449.267489921638	1	1	0.0	352.0	52.0

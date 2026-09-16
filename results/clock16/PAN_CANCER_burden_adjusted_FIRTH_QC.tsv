@@ -1,0 +1,33 @@
+Cancer_Type	N	CLOCK16_Mutated	CLOCK16_Wild_Type	Status	Iterations
+adrenocortical cancer	92	7	85	OK	10
+bladder urothelial carcinoma	412	116	296	OK	7
+brain lower grade glioma	516	13	503	OK	10
+breast invasive carcinoma	1101	58	1043	OK	10
+cervical & endocervical cancer	308	62	246	OK	8
+cholangiocarcinoma	36	1	35	OK	166
+colon adenocarcinoma	461	76	385	OK	9
+diffuse large B-cell lymphoma	48	3	45	OK	14
+esophageal carcinoma	185	31	154	OK	8
+glioblastoma multiforme	594	22	572	OK	11
+head & neck squamous cell carcinoma	528	72	456	OK	8
+kidney chromophobe	66	3	63	OK	12
+kidney clear cell carcinoma	536	26	510	OK	13
+kidney papillary cell carcinoma	291	38	253	OK	14
+liver hepatocellular carcinoma	377	53	324	OK	10
+lung adenocarcinoma	520	90	430	OK	8
+lung squamous cell carcinoma	506	107	399	OK	10
+mesothelioma	87	3	84	OK	29
+ovarian serous cystadenocarcinoma	592	5	587	OK	26
+pancreatic adenocarcinoma	185	7	178	OK	25
+pheochromocytoma & paraganglioma	179	5	174	OK	14
+prostate adenocarcinoma	498	23	475	OK	9
+rectum adenocarcinoma	167	9	158	OK	14
+sarcoma	261	19	242	OK	10
+skin cutaneous melanoma	104	33	71	OK	7
+stomach adenocarcinoma	478	105	373	OK	8
+testicular germ cell tumor	150	6	144	OK	23
+thymoma	124	5	119	OK	16
+thyroid carcinoma	507	6	501	OK	21
+uterine carcinosarcoma	57	5	52	OK	15
+uterine corpus endometrioid carcinoma	547	154	393	OK	9
+uveal melanoma	80	2	78	OK	58

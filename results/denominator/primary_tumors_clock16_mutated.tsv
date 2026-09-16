@@ -1,0 +1,1166 @@
+sample	sample_type_id	sample_type	cancer_type
+TCGA-02-2485-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-05-4250-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-05-4390-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-05-4398-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-05-4402-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-05-4410-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-05-4424-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-05-4432-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-06-0646-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-06-0649-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-06-0743-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-06-5416-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-06-6694-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-06-6699-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-06-A5U1-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-08-0386-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-09-2044-01	1	Primary Tumor	ovarian serous cystadenocarcinoma
+TCGA-12-5299-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-13-1477-01	1	Primary Tumor	ovarian serous cystadenocarcinoma
+TCGA-14-1456-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-14-2554-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-18-3407-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-18-3409-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-18-3410-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-18-3415-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-18-3416-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-18-4083-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-19-4068-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-19-5950-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-19-5956-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-20-0991-01	1	Primary Tumor	ovarian serous cystadenocarcinoma
+TCGA-21-1071-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-21-A5DI-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-22-1002-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-22-4593-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-22-4594-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-22-4595-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-22-4604-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-22-5474-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-22-5477-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-22-5483-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-22-5491-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-22-5492-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-25-2398-01	1	Primary Tumor	ovarian serous cystadenocarcinoma
+TCGA-27-2518-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-27-2523-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-28-5204-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-29-2432-01	1	Primary Tumor	ovarian serous cystadenocarcinoma
+TCGA-2F-A9KO-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-2F-A9KT-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-2G-AAG0-01	1	Primary Tumor	testicular germ cell tumor
+TCGA-2G-AAKO-01	1	Primary Tumor	testicular germ cell tumor
+TCGA-2G-AALW-01	1	Primary Tumor	testicular germ cell tumor
+TCGA-2H-A9GQ-01	1	Primary Tumor	esophageal carcinoma
+TCGA-2J-AABE-01	1	Primary Tumor	pancreatic adenocarcinoma
+TCGA-2W-A8YY-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-2Y-A9GU-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-2Y-A9GY-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-2Y-A9H9-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-2Z-A9J1-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-2Z-A9JE-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-2Z-A9JG-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-2Z-A9JK-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-2Z-A9JS-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-32-2616-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-33-4532-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-33-4547-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-33-4566-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-34-2604-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-34-2609-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-35-4122-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-37-4135-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-37-5819-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-37-A5EM-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-37-A5EN-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-38-4631-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-39-5016-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-39-5030-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-39-5037-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-3A-A9IU-01	1	Primary Tumor	pancreatic adenocarcinoma
+TCGA-3B-A9HZ-01	1	Primary Tumor	sarcoma
+TCGA-3M-AB46-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-43-5668-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-43-6647-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-43-7658-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-43-A474-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-43-A475-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-43-A56U-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-43-A56V-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-44-2656-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-44-2659-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-44-2668-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-44-6146-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-44-7669-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-44-A4SS-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-46-3769-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-46-6026-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-49-6743-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-49-AAR0-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-49-AARN-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-49-AARO-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-49-AARQ-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-4E-A92E-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-4R-AA8I-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-4V-A9QU-01	1	Primary Tumor	thymoma
+TCGA-4Z-AA7M-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-4Z-AA7Q-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-4Z-AA7R-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-4Z-AA7Y-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-4Z-AA80-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-4Z-AA84-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-4Z-AA86-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-4Z-AA87-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-50-5044-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-50-5049-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-50-5066-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-50-5930-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-50-5933-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-50-6592-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-51-4079-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-52-7622-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-52-7809-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-53-7813-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-53-A4EZ-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-6642-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-6969-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-7281-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-7727-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-7907-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-7910-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-7994-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-7995-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-8089-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-8207-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-8302-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-8506-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-8620-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-A48X-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-A48Y-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-A492-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-55-A4DF-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-56-7223-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-56-7731-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-56-8082-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-56-8628-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-56-A4ZK-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-5L-AAT1-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-5M-AAT6-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-5M-AATE-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-5P-A9JV-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-5P-A9JW-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-5P-A9JY-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-60-2711-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-60-2714-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-60-2721-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-62-8399-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-62-A471-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-63-A5MG-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-63-A5MH-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-63-A5MV-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-63-A5MY-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-64-1676-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-64-1679-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-64-1681-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-64-5778-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-66-2756-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-66-2759-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-66-2763-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-66-2765-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-66-2786-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-66-2791-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-66-2795-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-67-3771-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-67-3774-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-68-A59J-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-69-7978-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-69-7979-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-69-7980-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-6A-AB49-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-70-6722-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-74-6584-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-75-6214-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-75-7027-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-76-4925-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-76-6192-01	1	Primary Tumor	glioblastoma multiforme
+TCGA-77-6844-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-77-7140-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-77-7141-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-77-7337-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-77-8128-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-77-8133-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-77-8136-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-77-8144-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-77-8154-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-77-A5G3-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-77-A5GA-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-77-A5GB-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-77-A5GH-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-78-7146-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-78-7150-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-78-7154-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-78-7542-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-78-8640-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-78-8660-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-80-5611-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-85-6560-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-85-7698-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-85-7710-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-85-7844-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-85-7950-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-85-8276-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-85-8287-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-85-8354-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-85-8481-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-85-A4CL-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-85-A4JB-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-85-A4JC-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-86-6851-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-86-7955-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-86-8054-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-86-8056-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-86-8073-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-86-8278-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-86-8279-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-86-8359-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-86-8669-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-86-8673-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-86-A4JF-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-90-7769-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-90-7964-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-90-A4ED-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-91-6848-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-92-8063-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-93-8067-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-94-8490-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-94-8491-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-94-A4VJ-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-95-7039-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-95-7562-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-95-7948-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-96-7544-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-97-7941-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-97-8547-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-97-A4LX-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-98-8021-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-98-8022-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-98-A538-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-99-7458-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-A1-A0SI-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-A1-A0SK-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-A2-A0YD-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-A2-A0YK-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-A2-A1FW-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-A2-A25B-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-A2-A3Y0-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-A3-3313-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-A3-3347-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-A3-3382-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-A3-A6NN-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-A3-A8OU-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-A3-A8OV-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-A4-8310-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-A4-A48D-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-A4-A4ZT-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-A4-A5DU-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-A5-A0G1-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-A5-A0VP-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-A5-A0VQ-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-A5-A1OF-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-A5-A2K3-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-A5-A2K5-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-A5-A2K7-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-A6-2681-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-A6-2685-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-A6-2686-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-A6-3809-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-A6-5661-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-A6-5665-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-A6-6653-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-A6-6780-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-A6-6781-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-A6-6782-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-A6-A565-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-A6-A566-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-A7-A26F-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-A7-A4SC-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-A7-A4SE-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-A7-A56D-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-A7-A6VX-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-AA-3492-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AA-3510-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AA-3663-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AA-3713-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AA-3984-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AA-A00N-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AA-A010-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AA-A01P-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AA-A01R-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AA-A022-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AC-A23C-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-AC-A23H-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-AC-A2QH-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-AC-A6IW-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-AC-A8OQ-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-AD-5900-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AD-6889-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AD-6895-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AD-6964-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AF-6136-01	1	Primary Tumor	rectum adenocarcinoma
+TCGA-AH-6643-01	1	Primary Tumor	rectum adenocarcinoma
+TCGA-AJ-A23O-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AJ-A2QM-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AJ-A2QO-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AJ-A3BG-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AJ-A3BH-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AJ-A3EK-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AJ-A3EL-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AJ-A3OK-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AJ-A3OL-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AJ-A5DV-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AJ-A5DW-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AJ-A8CT-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AJ-A8CW-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AK-3465-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-AL-3468-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-AL-3472-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-AN-A0XU-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-AO-A128-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-AO-A1KR-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-AP-A059-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AP-A0LE-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AP-A0LF-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AP-A0LM-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AP-A0LP-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AP-A1DK-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AP-A1DO-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AP-A1DP-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AP-A1DR-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AP-A1DV-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AP-A1E0-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AQ-A1H2-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-AR-A0TT-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-AR-A256-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-AU-6004-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AX-A0J0-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A1C4-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A1C5-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A1CE-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A2HA-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A2HC-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A2HD-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A2HG-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A2HJ-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A2IN-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A3FS-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A3FT-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A3FV-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A3FX-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AX-A3G9-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-AY-6197-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AZ-4315-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AZ-4614-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AZ-6601-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-AZ-6605-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-B0-4698-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-B0-5097-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-B0-5098-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-B0-5121-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-B0-5402-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-B0-5691-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-B1-5398-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-B3-4103-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-B5-A0JN-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A0JU-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A0JY-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A0K9-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A11E-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A11G-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A11J-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A11N-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A11R-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A11U-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A1MR-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A1MW-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A1MX-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A3FA-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A3FC-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A5OC-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B5-A5OD-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-B6-A0RU-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-B7-5816-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-B7-5818-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-B7-A5TI-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-B8-5551-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-B8-A54H-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-B8-A54I-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-BA-4076-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-BA-4077-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-BA-4078-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-BA-6873-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-BA-A6D8-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-BA-A6DF-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-BA-A6DI-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-BB-4223-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-BB-A6UO-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-BC-4073-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-BF-A1Q0-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-BF-A5ES-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-BF-AAOX-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-BF-AAP4-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-BF-AAP7-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-BG-A0VV-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BG-A0VW-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BG-A0VX-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BG-A220-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BG-A221-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BG-A222-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BG-A2L7-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BH-A0AU-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-BH-A0DL-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-BH-A0DZ-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-BH-A0HA-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-BH-A0W7-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-BH-A18F-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-BH-A18G-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-BI-A0VR-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-BI-A20A-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-BJ-A3F0-01	1	Primary Tumor	thyroid carcinoma
+TCGA-BJ-A45H-01	1	Primary Tumor	thyroid carcinoma
+TCGA-BK-A13B-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BK-A26L-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BK-A6W3-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BL-A3JM-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-BP-4967-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-BP-5176-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-BP-5182-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-BQ-5886-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-BQ-5892-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-BQ-7055-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-BQ-7059-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-BR-4184-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-4201-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-4256-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-4280-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-4292-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-4357-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-4361-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-4362-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-6452-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-6453-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-6706-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-6707-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-6802-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-6852-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-7703-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-7707-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-7851-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-7901-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8059-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8078-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8297-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8360-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8361-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8363-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8368-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8369-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8372-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8380-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8382-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8487-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8589-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8680-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8686-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-8687-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-A452-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-A4CQ-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-A4IY-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BR-A4QL-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-BS-A0TC-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BS-A0TJ-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BS-A0UA-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BS-A0UF-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BS-A0UJ-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BS-A0UV-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BS-A0V6-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-BT-A20J-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-BT-A20N-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-BT-A20O-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-BT-A20T-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-BT-A3PJ-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-BT-A42C-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-BT-A42F-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-BW-A5NQ-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-C4-A0F0-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-C5-A1MH-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-C5-A2LY-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-C5-A7CL-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-C5-A7UE-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-C5-A7X8-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-C5-A901-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-C5-A902-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-C5-A907-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-C8-A26X-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-C8-A26Y-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-C8-A274-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-C8-A27B-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-C8-A8HP-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-C8-A8HQ-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-CA-6717-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-CA-6718-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-CC-5258-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-CC-A1HT-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-CC-A8HT-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-CC-A8HU-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-CD-8524-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CD-8527-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CD-8533-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CD-8535-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CD-A4MG-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CD-A4MJ-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CF-A1HS-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-CF-A47X-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-CF-A9FF-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-CF-A9FL-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-CG-4305-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-4306-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-4437-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-4441-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-4442-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-4444-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-4460-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-4466-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-4469-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-5717-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-5719-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-5721-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-5723-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-5726-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-5728-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CG-5733-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-CH-5762-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-CJ-4638-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-CJ-4643-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-CJ-4923-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-CJ-5671-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-CK-4951-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-CK-5916-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-CM-4743-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-CM-4746-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-CM-5861-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-CM-5863-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-CM-6163-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-CM-6171-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-CM-6674-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-CM-6679-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-CN-4723-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CN-4728-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CN-4729-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CN-6988-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CQ-5325-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CQ-5327-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CQ-5331-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CQ-5333-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CQ-6221-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CQ-7063-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CQ-7071-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CR-5243-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CR-5248-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CR-6472-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CR-7365-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CR-7376-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CR-7388-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CR-7390-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CR-7394-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CR-7398-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CR-7402-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CR-7404-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CU-A0YR-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-CU-A72E-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-CV-5439-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-5977-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-6936-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-6942-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-6953-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-7089-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-7099-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-7235-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-7245-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-7250-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-7406-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-7415-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-7427-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-7437-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-A463-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-A465-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-A468-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CV-A6JE-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CX-A4AQ-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-CZ-4866-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-CZ-5985-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-D1-A0ZO-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A0ZQ-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A0ZZ-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A103-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A15X-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A163-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A167-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A16J-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A16N-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A16X-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A174-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A176-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A177-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A17A-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A17D-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A17Q-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A1NS-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A1NY-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A2G0-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A2G5-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D1-A3DG-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-D5-5537-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-D5-5540-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-D5-6530-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-D5-6534-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-D5-6924-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-D5-6928-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-D5-6929-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-D5-6930-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-D6-6516-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-D6-6517-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-D6-A6EP-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-D7-5578-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-D7-6526-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-D7-6527-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-D7-6528-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-D7-A4YY-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-D7-A6EY-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-D8-A145-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-D8-A1J8-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-D8-A1JF-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-D8-A1JG-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-D8-A1JK-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-D8-A1JL-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-D8-A1XK-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-D8-A1XQ-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-D8-A27V-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-DA-A960-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-DC-6157-01	1	Primary Tumor	rectum adenocarcinoma
+TCGA-DD-A115-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-A1EB-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-A1EE-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-A4NI-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-A4NN-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-A4NO-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-A73E-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-AAC8-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-AACA-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-AACC-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-AACK-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-AACT-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-AACV-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-AACW-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-AADC-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-AADW-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-AAE7-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-AAE9-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DD-AAEK-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-DF-A2KN-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-DF-A2KU-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-DF-A2KV-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-DG-A2KM-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-DI-A1BU-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-DJ-A3V5-01	1	Primary Tumor	thyroid carcinoma
+TCGA-DK-A1A3-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-A1AC-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-A1AD-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-A1AG-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-A2I1-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-A2I4-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-A3IT-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-A3IU-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-A3WW-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-A6AW-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-A6B6-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-AA6S-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-AA6U-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-AA71-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-AA75-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-AA76-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DK-AA77-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-DM-A0XF-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-DM-A1D0-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-DM-A1D4-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-DM-A1DA-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-DM-A1HB-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-DM-A28K-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-DR-A0ZM-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-DS-A0VK-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-DU-5849-01	1	Primary Tumor	brain lower grade glioma
+TCGA-DU-5872-01	1	Primary Tumor	brain lower grade glioma
+TCGA-DU-6392-01	1	Primary Tumor	brain lower grade glioma
+TCGA-DU-8168-01	1	Primary Tumor	brain lower grade glioma
+TCGA-DU-A6S8-01	1	Primary Tumor	brain lower grade glioma
+TCGA-DX-A3M1-01	1	Primary Tumor	sarcoma
+TCGA-DX-A8BO-01	1	Primary Tumor	sarcoma
+TCGA-DX-A8BP-01	1	Primary Tumor	sarcoma
+TCGA-DX-A8BZ-01	1	Primary Tumor	sarcoma
+TCGA-DX-AB2E-01	1	Primary Tumor	sarcoma
+TCGA-DX-AB2Z-01	1	Primary Tumor	sarcoma
+TCGA-DY-A1DF-01	1	Primary Tumor	rectum adenocarcinoma
+TCGA-E2-A1B1-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-E2-A1BC-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-E2-A2P6-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-E3-A3DY-01	1	Primary Tumor	thyroid carcinoma
+TCGA-E5-A4U1-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-E6-A1LX-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-E6-A1M0-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-E6-A2P8-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-E6-A8L9-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-E7-A4IJ-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-E7-A541-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-E7-A6MF-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-E7-A7DV-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-E7-A7XN-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-E7-A85H-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-E7-A97P-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-E9-A6HE-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-EA-A3HS-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-EA-A3HU-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-EA-A3QD-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-EA-A3Y4-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-EA-A410-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-EB-A299-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EB-A3XB-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EB-A3XC-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EB-A3XD-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EB-A3XF-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EB-A3Y7-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EB-A41A-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EB-A430-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EB-A431-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EB-A4P0-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EB-A5SE-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EB-A6QY-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EB-A6R0-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-EC-A1NJ-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EC-A1QX-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EC-A24G-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-ED-A66Y-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-ED-A7PY-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-EI-6507-01	1	Primary Tumor	rectum adenocarcinoma
+TCGA-EI-6882-01	1	Primary Tumor	rectum adenocarcinoma
+TCGA-EI-6884-01	1	Primary Tumor	rectum adenocarcinoma
+TCGA-EI-6917-01	1	Primary Tumor	rectum adenocarcinoma
+TCGA-EJ-5505-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-EJ-5516-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-EJ-5521-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-EJ-5525-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-EJ-5526-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-EJ-7782-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-EJ-7784-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-EK-A2H0-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-EK-A2IP-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-EK-A2PG-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-EK-A2R8-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-EK-A2RA-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-EK-A3GK-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-EM-A2CM-01	1	Primary Tumor	thyroid carcinoma
+TCGA-EO-A22R-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A22S-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A22T-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A22U-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A22X-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A2CG-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A3AS-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A3AU-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A3AV-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A3AY-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A3AZ-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A3B0-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A3KX-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EO-A3L0-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EP-A3JL-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-EP-A3RK-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-ER-A194-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-ET-A3BS-01	1	Primary Tumor	thyroid carcinoma
+TCGA-EV-5902-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-EW-A1IZ-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-EW-A2FV-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-EX-A3L1-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-EY-A1G8-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A1GD-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A1GF-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A1GI-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A1GK-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A1GO-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A1GU-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A212-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A215-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A2OM-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A2OP-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A2OQ-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A547-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A548-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A549-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-EY-A5W2-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-F4-6570-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-F4-6703-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-F4-6809-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-F5-6814-01	1	Primary Tumor	rectum adenocarcinoma
+TCGA-F7-7848-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-F7-A50J-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-F7-A623-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-F7-A624-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-FA-A7Q1-01	1	Primary Tumor	diffuse large B-cell lymphoma
+TCGA-FD-A3B3-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FD-A3N5-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FD-A3SO-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FD-A43X-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FD-A5C1-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FD-A62P-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FD-A6TA-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FD-A6TC-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FD-A6TD-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FD-A6TF-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FD-A6TI-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FI-A2D0-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-FI-A2D4-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-FI-A2D5-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-FI-A2D6-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-FI-A2F4-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-FI-A3PX-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-FJ-A3Z7-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FJ-A3ZF-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-FP-8211-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-FP-A4BE-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-FR-A3R1-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-FR-A726-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-FS-A1ZN-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-FU-A23L-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-FU-A3HZ-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-FU-A40J-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-FV-A23B-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-FV-A3R3-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-FW-A5DX-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-FX-A3NJ-01	1	Primary Tumor	sarcoma
+TCGA-G2-A2EJ-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-G2-A2EO-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-G2-A2ES-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-G2-A3VY-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-G2-AA3F-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-G3-A25V-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-G3-A5SI-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-G3-A7M7-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-G3-AAV0-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-G3-AAV2-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-G3-AAV3-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-G4-6297-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-G4-6302-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-G4-6320-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-G4-6586-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-G4-6588-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-G4-6625-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-G4-6626-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-G4-6628-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-G7-7502-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-G7-A8LD-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-GC-A3I6-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-GC-A3RC-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-GC-A4ZW-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-GC-A6I1-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-GF-A769-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-GL-A4EM-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-GM-A2D9-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-GM-A3XL-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-GN-A263-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-GN-A269-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-GN-A26C-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-GU-A42Q-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-GU-A767-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-GU-AATO-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-GV-A3JX-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-GV-A3JZ-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-GV-A6ZA-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-H7-7774-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-HC-A6AO-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-HC-A8D0-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-HD-7229-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-HD-8634-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-HF-7132-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HF-7134-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HF-A5NB-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HG-A9SC-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-HM-A3JJ-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-HP-A5N0-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-HT-7688-01	1	Primary Tumor	brain lower grade glioma
+TCGA-HT-7875-01	1	Primary Tumor	brain lower grade glioma
+TCGA-HT-8564-01	1	Primary Tumor	brain lower grade glioma
+TCGA-HT-A5R5-01	1	Primary Tumor	brain lower grade glioma
+TCGA-HU-8602-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HU-A4G8-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HU-A4GH-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HU-A4GN-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HU-A4GQ-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HU-A4GU-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HU-A4GX-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HU-A4H4-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HU-A4H5-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HU-A4H8-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-HZ-8002-01	1	Primary Tumor	pancreatic adenocarcinoma
+TCGA-HZ-A4BK-01	1	Primary Tumor	pancreatic adenocarcinoma
+TCGA-HZ-A77P-01	1	Primary Tumor	pancreatic adenocarcinoma
+TCGA-IA-A83W-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-IB-7651-01	1	Primary Tumor	pancreatic adenocarcinoma
+TCGA-IB-A7M4-01	1	Primary Tumor	pancreatic adenocarcinoma
+TCGA-IC-A6RE-01	1	Primary Tumor	esophageal carcinoma
+TCGA-IE-A4EI-01	1	Primary Tumor	sarcoma
+TCGA-IE-A4EJ-01	1	Primary Tumor	sarcoma
+TCGA-IG-A5B8-01	1	Primary Tumor	esophageal carcinoma
+TCGA-IG-A625-01	1	Primary Tumor	esophageal carcinoma
+TCGA-IH-A3EA-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-IN-A6RL-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-IR-A3LA-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-IR-A3LH-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-IR-A3LI-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-IR-A3LK-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-IR-A3LL-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-IZ-A6M8-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-J4-A67K-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-J9-A8CP-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-JV-A5VE-01	1	Primary Tumor	sarcoma
+TCGA-JW-A5VK-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-JW-A5VL-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-JX-A3Q0-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-JY-A6FB-01	1	Primary Tumor	esophageal carcinoma
+TCGA-JY-A6FG-01	1	Primary Tumor	esophageal carcinoma
+TCGA-JY-A938-01	1	Primary Tumor	esophageal carcinoma
+TCGA-JY-A93E-01	1	Primary Tumor	esophageal carcinoma
+TCGA-K4-A3WS-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-K4-A54R-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-K4-A6FZ-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-K4-A83P-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-K4-AAQO-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-KB-A93J-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-KK-A59V-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-KK-A6E6-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-KL-8336-01	1	Primary Tumor	kidney chromophobe
+TCGA-KL-8339-01	1	Primary Tumor	kidney chromophobe
+TCGA-KN-8428-01	1	Primary Tumor	kidney chromophobe
+TCGA-KQ-A41R-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-KQ-A41S-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-KR-A7K2-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-KR-A7K7-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-KU-A66S-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-L5-A43E-01	1	Primary Tumor	esophageal carcinoma
+TCGA-L5-A43J-01	1	Primary Tumor	esophageal carcinoma
+TCGA-L5-A4OI-01	1	Primary Tumor	esophageal carcinoma
+TCGA-L5-A4OP-01	1	Primary Tumor	esophageal carcinoma
+TCGA-L5-A88V-01	1	Primary Tumor	esophageal carcinoma
+TCGA-L5-A8NM-01	1	Primary Tumor	esophageal carcinoma
+TCGA-L5-A8NS-01	1	Primary Tumor	esophageal carcinoma
+TCGA-L5-A8NT-01	1	Primary Tumor	esophageal carcinoma
+TCGA-L5-A8NW-01	1	Primary Tumor	esophageal carcinoma
+TCGA-L7-A6VZ-01	1	Primary Tumor	esophageal carcinoma
+TCGA-L9-A7SV-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-L9-A8F4-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-LA-A7SW-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-LK-A4O5-01	1	Primary Tumor	mesothelioma
+TCGA-LN-A49V-01	1	Primary Tumor	esophageal carcinoma
+TCGA-LN-A49W-01	1	Primary Tumor	esophageal carcinoma
+TCGA-LN-A4A8-01	1	Primary Tumor	esophageal carcinoma
+TCGA-LN-A4A9-01	1	Primary Tumor	esophageal carcinoma
+TCGA-LT-A5Z6-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-MA-AA3X-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-MA-AA3Z-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-MA-AA42-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-MH-A55W-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-MH-A855-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-MH-A856-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-MH-A857-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-MM-A564-01	1	Primary Tumor	kidney clear cell carcinoma
+TCGA-MN-A4N4-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-MN-A4N5-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-MP-A4TK-01	1	Primary Tumor	lung adenocarcinoma
+TCGA-MT-A67F-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-MV-A51V-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-MX-A5UJ-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-MY-A913-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-N5-A4RO-01	1	Primary Tumor	uterine carcinosarcoma
+TCGA-N8-A4PL-01	1	Primary Tumor	uterine carcinosarcoma
+TCGA-N9-A4PZ-01	1	Primary Tumor	uterine carcinosarcoma
+TCGA-N9-A4Q7-01	1	Primary Tumor	uterine carcinosarcoma
+TCGA-NC-A5HE-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-NC-A5HH-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-NC-A5HL-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-NC-A5HP-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-NC-A5HQ-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-ND-A4WC-01	1	Primary Tumor	uterine carcinosarcoma
+TCGA-NH-A50T-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-NH-A5IV-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-O2-A52Q-01	1	Primary Tumor	lung squamous cell carcinoma
+TCGA-OL-A5D6-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-OR-A5J5-01	1	Primary Tumor	adrenocortical cancer
+TCGA-OR-A5JA-01	1	Primary Tumor	adrenocortical cancer
+TCGA-OR-A5K5-01	1	Primary Tumor	adrenocortical cancer
+TCGA-OR-A5KB-01	1	Primary Tumor	adrenocortical cancer
+TCGA-OR-A5LO-01	1	Primary Tumor	adrenocortical cancer
+TCGA-P3-A5Q5-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-P3-A5QF-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-P3-A6T5-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-P6-A5OH-01	1	Primary Tumor	adrenocortical cancer
+TCGA-PC-A5DM-01	1	Primary Tumor	sarcoma
+TCGA-PE-A5DC-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-PG-A6IB-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-PG-A917-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-PK-A5HB-01	1	Primary Tumor	adrenocortical cancer
+TCGA-Q1-A6DT-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-Q1-A73O-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-Q1-A73P-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-QC-A7B5-01	1	Primary Tumor	sarcoma
+TCGA-QC-AA9N-01	1	Primary Tumor	sarcoma
+TCGA-QG-A5Z1-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-QG-A5Z2-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-QK-A64Z-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-QK-A6IF-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-QK-A6IH-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-QK-A6VB-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-QQ-A5VD-01	1	Primary Tumor	sarcoma
+TCGA-QQ-A8VF-01	1	Primary Tumor	sarcoma
+TCGA-QQ-A8VG-01	1	Primary Tumor	sarcoma
+TCGA-QR-A70G-01	1	Primary Tumor	pheochromocytoma & paraganglioma
+TCGA-QR-A70O-01	1	Primary Tumor	pheochromocytoma & paraganglioma
+TCGA-QS-A5YQ-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-R5-A7ZF-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-R6-A6KZ-01	1	Primary Tumor	esophageal carcinoma
+TCGA-R6-A6L4-01	1	Primary Tumor	esophageal carcinoma
+TCGA-R6-A8W8-01	1	Primary Tumor	esophageal carcinoma
+TCGA-R6-A8WC-01	1	Primary Tumor	esophageal carcinoma
+TCGA-RC-A6M3-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-RC-A7SB-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-RN-AAAQ-01	1	Primary Tumor	sarcoma
+TCGA-RQ-A68N-01	1	Primary Tumor	diffuse large B-cell lymphoma
+TCGA-RQ-AAAT-01	1	Primary Tumor	diffuse large B-cell lymphoma
+TCGA-RW-A685-01	1	Primary Tumor	pheochromocytoma & paraganglioma
+TCGA-RY-A83Z-01	1	Primary Tumor	brain lower grade glioma
+TCGA-S6-A8JY-01	1	Primary Tumor	testicular germ cell tumor
+TCGA-S9-A6U1-01	1	Primary Tumor	brain lower grade glioma
+TCGA-S9-A6UA-01	1	Primary Tumor	brain lower grade glioma
+TCGA-SC-A6LQ-01	1	Primary Tumor	mesothelioma
+TCGA-SJ-A6ZI-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-SL-A6JA-01	1	Primary Tumor	uterine corpus endometrioid carcinoma
+TCGA-SR-A6MV-01	1	Primary Tumor	pheochromocytoma & paraganglioma
+TCGA-SX-A71S-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-SX-A7SN-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-SX-A7SQ-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-T2-A6WX-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-UB-A7MB-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-UC-A7PF-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-UE-A6QT-01	1	Primary Tumor	sarcoma
+TCGA-UF-A7JJ-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-UN-AAZ9-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-UU-A93S-01	1	Primary Tumor	breast invasive carcinoma
+TCGA-UY-A78K-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-UY-A78P-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-UY-A9PA-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-UY-A9PB-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-UY-A9PD-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-UY-A9PE-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-UY-A9PF-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-UY-A9PH-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-UZ-A9PO-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-UZ-A9PS-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-UZ-A9Q1-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-V1-A9OH-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-V1-A9OY-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-V4-A9EI-01	1	Primary Tumor	uveal melanoma
+TCGA-V5-A7RE-01	1	Primary Tumor	esophageal carcinoma
+TCGA-V5-AASW-01	1	Primary Tumor	esophageal carcinoma
+TCGA-VM-A8CA-01	1	Primary Tumor	brain lower grade glioma
+TCGA-VP-A875-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-VQ-A8DU-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-A8P2-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-A8PH-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-A8PO-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-A8PP-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-A8PT-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-A8PY-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-A91D-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-A91E-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-A91K-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-A924-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-AA69-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-AA6A-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-AA6B-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-AA6D-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VQ-AA6K-01	1	Primary Tumor	stomach adenocarcinoma
+TCGA-VR-A8EQ-01	1	Primary Tumor	esophageal carcinoma
+TCGA-VS-A8EK-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-VS-A8EL-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-VS-A8Q8-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-VS-A94Z-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-VS-A952-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-VS-A953-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-VS-A954-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-VS-A958-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-VS-A959-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-VS-A9U6-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-VS-A9UJ-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-VS-A9UZ-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-VS-A9V4-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-W5-AA39-01	1	Primary Tumor	cholangiocarcinoma
+TCGA-WA-A7H4-01	1	Primary Tumor	head & neck squamous cell carcinoma
+TCGA-WB-A821-01	1	Primary Tumor	pheochromocytoma & paraganglioma
+TCGA-WQ-A9G7-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-WS-AB45-01	1	Primary Tumor	colon adenocarcinoma
+TCGA-WX-AA44-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-XE-A8H5-01	1	Primary Tumor	testicular germ cell tumor
+TCGA-XF-A8HC-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-XF-A9SV-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-XF-A9T0-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-XF-A9T5-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-XF-AAMG-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-XF-AAML-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-XF-AAMZ-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-XF-AAN0-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-XF-AAN2-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-XF-AAN4-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-XF-AAN5-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-XK-AAIW-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-XQ-A8TA-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-XU-A936-01	1	Primary Tumor	thymoma
+TCGA-XV-A9W2-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-XV-AAZW-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-XV-AAZY-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-XY-A89B-01	1	Primary Tumor	testicular germ cell tumor
+TCGA-Y8-A896-01	1	Primary Tumor	kidney papillary cell carcinoma
+TCGA-YC-A89H-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-YG-AA3N-01	1	Primary Tumor	skin cutaneous melanoma
+TCGA-YL-A8HM-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-YL-A9WI-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-YZ-A985-01	1	Primary Tumor	uveal melanoma
+TCGA-Z6-A8JE-01	1	Primary Tumor	esophageal carcinoma
+TCGA-Z6-AAPN-01	1	Primary Tumor	esophageal carcinoma
+TCGA-ZB-A963-01	1	Primary Tumor	thymoma
+TCGA-ZB-A966-01	1	Primary Tumor	thymoma
+TCGA-ZF-A9R1-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-ZF-A9R4-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-ZF-A9R7-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-ZF-A9R9-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-ZF-A9RL-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-ZF-AA4N-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-ZF-AA4X-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-ZF-AA56-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-ZF-AA58-01	1	Primary Tumor	bladder urothelial carcinoma
+TCGA-ZG-A9KY-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-ZG-A9N3-01	1	Primary Tumor	prostate adenocarcinoma
+TCGA-ZJ-AAX8-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-ZJ-AAXU-01	1	Primary Tumor	cervical & endocervical cancer
+TCGA-ZN-A9VW-01	1	Primary Tumor	mesothelioma
+TCGA-ZP-A9CV-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-ZP-A9D1-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-ZP-A9D2-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-ZS-A9CF-01	1	Primary Tumor	liver hepatocellular carcinoma
+TCGA-ZT-A8OM-01	1	Primary Tumor	thymoma

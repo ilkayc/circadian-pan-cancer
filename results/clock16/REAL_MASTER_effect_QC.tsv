@@ -1,0 +1,15 @@
+effect	Mutation_Events	Unique_Patients
+Missense_Mutation	1304	759
+Silent	508	368
+3'UTR	233	154
+Nonsense_Mutation	105	88
+Intron	82	76
+Frame_Shift_Del	62	52
+5'UTR	53	48
+Splice_Site	35	33
+Frame_Shift_Ins	14	13
+In_Frame_Del	12	12
+3'Flank	6	6
+5'Flank	4	4
+Nonstop_Mutation	3	3
+In_Frame_Ins	1	1

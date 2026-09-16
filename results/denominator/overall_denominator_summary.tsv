@@ -1,0 +1,4 @@
+Metric	N	Percent_of_all_primary
+All Primary Tumor samples	10593	100
+Primary tumors represented in MC3	8741	82.517
+Primary tumors with >=1 clock-gene mutation	1165	10.998

@@ -1,0 +1,12 @@
+SIFT_Prediction	PolyPhen_Prediction	N
+tolerated	benign	407
+deleterious	probably_damaging	401
+		233
+deleterious	possibly_damaging	197
+deleterious	benign	154
+tolerated	possibly_damaging	80
+tolerated	probably_damaging	52
+tolerated		5
+deleterious		5
+	probably_damaging	1
+	benign	1

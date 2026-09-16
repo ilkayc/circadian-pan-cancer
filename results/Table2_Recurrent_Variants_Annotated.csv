@@ -1,0 +1,6 @@
+Gene_Symbol,Transcript_ID,Variant_HGVSp,Count,SIFT_Prediction,PolyPhen_Prediction,Protein_Domain,Cancer_Types
+PER3,ENST00000361413,p.R316C,5,Deleterious (0.02),Probably Damaging (0.989),PAS domain,"UCEC, SKCM, COAD"
+CSNK1E,ENST00000305886,p.R127W,4,Deleterious (0.00),Probably Damaging (1.000),Protein kinase domain,"UCEC, STAD, BLCA"
+CLOCK,ENST00000309964,p.G120V,4,Deleterious (0.00),Probably Damaging (0.999),bHLH / PAS-A boundary,"UCEC, COAD, READ"
+CRY1,ENST00000350720,p.R348C,4,Deleterious (0.00),Possibly Damaging (0.606),FAD-binding / Photolyase,"SKCM, LUAD, UCEC"
+NR1D2,ENST00000355883,p.S406L,4,Deleterious (0.02),Possibly Damaging (0.793),Ligand-binding domain,"UCEC, COAD, LUSC"

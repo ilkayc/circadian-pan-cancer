@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """
 Script 33: Generate Complete Supplementary Tables S1, S2, and S3.
-- Table S1: All 1,532 somatic missense variants with SIFT & PolyPhen-2.
-- Table S2: Functional domain localization & recurrent hotspots (including CRY1 p.N312T and CRY2 p.V102M).
-- Table S3: Pairwise 120-gene co-occurrence and mutual exclusivity Fisher exact tests and FDR.
+Uses relative paths to repo/data.
 """
 import os
 import re
@@ -11,12 +9,14 @@ import pandas as pd
 import numpy as np
 from scipy.stats import fisher_exact, false_discovery_control
 
-out_dir = '/Users/ilkaycivelek/circadian_pan_cancer_Q2/supplementary'
-mut_path = '/Users/ilkaycivelek/results_circadian/circadian_all_mutations_extracted.csv'
-clin_path = '/Users/ilkaycivelek/Downloads/Survival_SupplementalTable_S1_20171025_xena_sp'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+mut_path = os.path.join(BASE_DIR, 'data', 'circadian_all_mutations_extracted.csv')
+clin_path = os.path.join(BASE_DIR, 'data', 'TCGA_PanCancer_CDR_Survival.tsv')
+out_dir = os.path.join(BASE_DIR, 'supplementary')
 
 df = pd.read_csv(mut_path, low_memory=False)
 clin = pd.read_csv(clin_path, sep='	', low_memory=False)
+
 sample_to_cancer = dict(zip(clin['sample'], clin['cancer type abbreviation']))
 patient_to_cancer = dict(zip(clin['_PATIENT'], clin['cancer type abbreviation']))
 
@@ -49,8 +49,8 @@ for idx, r in missense.iterrows():
         'High_Confidence_Deleterious': 'Yes' if is_hc else 'No', 'dbSNP_ID': r.get('dbSNP_RS', ''), 'COSMIC_ID': r.get('COSMIC', '')
     })
 df_s1 = pd.DataFrame(s1_data)
-df_s1.to_csv(f'{out_dir}/Supplementary_Table_S1_1532_Missense_Variants.csv', index=False)
-df_s1.to_excel(f'{out_dir}/Supplementary_Table_S1_1532_Missense_Variants.xlsx', index=False)
+os.makedirs(out_dir, exist_ok=True)
+df_s1.to_csv(os.path.join(out_dir, 'Supplementary_Table_S1_1532_Missense_Variants.csv'), index=False)
+df_s1.to_excel(os.path.join(out_dir, 'Supplementary_Table_S1_1532_Missense_Variants.xlsx'), index=False)
 
-# Table S2 & S3 generated
-print('Supplementary tables generated in:', out_dir)
+print(f'Supplementary Table S1 generated: {len(df_s1)} variants')

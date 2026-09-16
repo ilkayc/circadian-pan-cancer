@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Script 31: Generate Figure 7 (In Silico Pathogenicity & Hotspots) and Table 2.
-Panel A: SIFT and PolyPhen-2 Venn diagram (706 high-confidence variants).
-Panel B: Recurrent hotspot variants with gene labels, patient counts, and cancer types.
-"""
 import os
 import pandas as pd
 import numpy as np
@@ -13,10 +8,10 @@ from matplotlib_venn import venn2
 plt.rcParams['font.family'] = 'sans-serif'
 plt.rcParams['font.sans-serif'] = ['Helvetica', 'Arial', 'DejaVu Sans']
 
-out_fig = '/Users/ilkaycivelek/circadian_pan_cancer_Q2/figures/Figure_7_InSilico_Pathogenicity_and_Hotspots_Fixed.png'
-out_t2 = '/Users/ilkaycivelek/circadian_pan_cancer_Q2/results/Table2_Recurrent_Variants_Annotated.csv'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+out_fig = os.path.join(BASE_DIR, 'figures', 'Figure_7_InSilico_Pathogenicity_and_Hotspots_Fixed.png')
+out_t2 = os.path.join(BASE_DIR, 'results', 'Table2_Recurrent_Variants_Annotated.csv')
 
-# Recurrent hotspots data verified from TCGA
 hotspots = [
     {'Gene': 'PER3', 'Variant': 'p.R316C', 'Transcript': 'ENST00000361413', 'Count': 5, 'Domain': 'PAS domain', 'Cancers': 'SKCM (n=5)', 'SIFT': 'Deleterious (0.02)', 'PolyPhen': 'Probably Damaging (0.989)'},
     {'Gene': 'CSNK1E', 'Variant': 'p.R127W', 'Transcript': 'ENST00000305886', 'Count': 4, 'Domain': 'Protein kinase domain', 'Cancers': 'UCEC, COAD, SKCM', 'SIFT': 'Deleterious (0.00)', 'PolyPhen': 'Probably Damaging (1.000)'},
@@ -27,25 +22,23 @@ hotspots = [
 ]
 
 df_t2 = pd.DataFrame(hotspots)
+os.makedirs(os.path.dirname(out_t2), exist_ok=True)
 df_t2.to_csv(out_t2, index=False)
 print('Table 2 exported to:', out_t2)
 
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 6), dpi=300)
 
-# Panel A: Venn
-v = venn2(subsets=(215, 142, 706), set_labels=('SIFT Predicted
-Deleterious (n = 921)', 'PolyPhen-2 Predicted
-Damaging (n = 848)'), ax=ax1)
-for patch, col in zip(v.patches, ['#4575b4', '#d73027', '#91bfdb']):
+lbl1 = 'SIFT Predicted\nDeleterious (n = 921)'
+lbl2 = 'PolyPhen-2 Predicted\nDamaging (n = 848)'
+v = venn2(subsets=(215, 142, 706), set_labels=(lbl1, lbl2), ax=ax1)
+for patch in v.patches:
     if patch: patch.set_alpha(0.6)
 ax1.set_title('A. In Silico Consensus Intersection (n = 1,532 Missense Variants)', fontsize=11, fontweight='bold', pad=15)
 ax1.text(0, -0.65, '706 High-Confidence Deleterious Variants (46.1%)', ha='center', fontsize=10.5, fontweight='bold', color='#1a476f')
 
-# Panel B: Lollipop recurrence
 y_idx = np.arange(len(hotspots))
-labels = [f"{h['Gene']} {h['Variant']}" for h in hotspots]
+labels = [h['Gene'] + ' ' + h['Variant'] for h in hotspots]
 counts = [h['Count'] for h in hotspots]
-colors = ['#d73027', '#fc8d59', '#fee090', '#e0f3f8', '#91bfdb', '#4575b4']
 
 ax2.hlines(y=y_idx, xmin=0, xmax=counts, color='gray', alpha=0.7, linewidth=2)
 ax2.scatter(counts, y_idx, color='#2b5c8f', s=160, zorder=3, edgecolors='black')
@@ -58,8 +51,9 @@ ax2.set_title('B. Recurrent Hotspot Missense Variants in Functional Domains', fo
 ax2.grid(axis='x', linestyle='--', alpha=0.5)
 
 for i, h in enumerate(hotspots):
-    ax2.text(h['Count'] + 0.15, i, f"{h['Domain']} ({h['Cancers']})", va='center', fontsize=9, color='#333333', style='italic')
+    ax2.text(h['Count'] + 0.15, i, h['Domain'] + ' (' + h['Cancers'] + ')', va='center', fontsize=9, color='#333333', style='italic')
 
 plt.tight_layout()
+os.makedirs(os.path.dirname(out_fig), exist_ok=True)
 plt.savefig(out_fig, dpi=300, bbox_inches='tight')
-print('Figure 7 saved to:', out_fig)
+print('Figure 7 generated successfully at:', out_fig)

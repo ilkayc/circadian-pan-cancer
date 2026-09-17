@@ -1,4 +1,4 @@
-Gene_Symbol,Cancer_Type,Tumor_Sample_Barcode,HGVSp_Short,HGVSp_Full,HGVSc,Transcript_ID,RefSeq_ID,Protein_Position,SIFT_Score,SIFT_Prediction,PolyPhen_Score,PolyPhen_Prediction,High_Confidence_Deleterious,dbSNP_ID,COSMIC_ID
+Gene Symbol,Cancer Type,Tumor Sample Barcode,HGVSp Short,HGVSp Full,HGVSc,Transcript ID,RefSeq ID,Protein Position,SIFT Score,SIFT Prediction,PolyPhen Score,PolyPhen Prediction,High Confidence Deleterious,dbSNP ID,COSMIC ID
 CLOCK,HNSC,TCGA-CQ-5327-01A-01D-1683-08,p.E538Q,p.Glu538Gln,c.1612G>C,ENST00000309964,,538/846,1.0,tolerated,0.039,benign,No,,
 CRY2,STAD,TCGA-CD-A4MJ-01A-11D-A25D-08,p.V102M,p.Val102Met,c.304G>A,ENST00000616080,NM_021117.5,102/593,0.01,deleterious,0.468,possibly_damaging,Yes,rs200945082,COSM1979676;COSM1979677
 CRY1,STAD,TCGA-CD-A4MJ-01A-11D-A25D-08,p.N312T,p.Asn312Thr,c.935A>C,ENST00000008527,NM_004075.5,312/586,0.01,deleterious,0.999,probably_damaging,Yes,,COSM4038309

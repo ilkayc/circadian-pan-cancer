@@ -1,4 +1,4 @@
-Gene_Symbol,HGVSp_Short,HGVSc,Ensembl_Transcript,RefSeq_Accession,Variant_Frequency_n,Protein_Domain,SIFT_Score,SIFT_Prediction,PolyPhen_Score,PolyPhen_Prediction,High_Confidence_Deleterious,Cancer_Cohorts
+Gene Symbol,HGVSp Short,HGVSc,Ensembl Transcript,RefSeq Accession,Variant Frequency n,Protein Domain,SIFT Score,SIFT Prediction,PolyPhen Score,PolyPhen Prediction,High Confidence Deleterious,Cancer Cohorts
 PER3,p.R316C,c.946C>T,ENST00000361923,NM_016831.4;NM_001377276.1,5,PAS-B / Casein kinase binding region,0.02,deleterious,0.989,probably_damaging,Yes,SKCM
 CLOCK,p.G120V,c.359G>T,ENST00000309964,,4,Basic Helix-Loop-Helix (bHLH) DNA-binding domain,0.0,deleterious,0.999,probably_damaging,Yes,"BRCA, COAD, UCEC"
 CRY1,p.R348C,c.1042C>T,ENST00000008527,NM_004075.5,4,DNA Photolyase / FAD-binding domain,0.0,deleterious,0.606,possibly_damaging,Yes,"COAD, UCEC"

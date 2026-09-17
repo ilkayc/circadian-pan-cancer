@@ -51,6 +51,25 @@ pip install -r requirements.txt
 
 ---
 
+
+---
+
+## 🎨 Figure Reproduction & Software Specification
+
+| Figure ID | Description | Primary Software / Library | Tool Version | Reproduction Output Path |
+|:---|:---|:---|:---:|:---|
+| **Figure 1** | Translational 4-Phase Analytical Workflow | Python (matplotlib, patches) | Matplotlib >= 3.7 | `figures/Figure_1_Pipeline_Workflow.png` |
+| **Figure 2** | Consolidated Mutational Landscape (16 Genes & Consequences) | Python (matplotlib, pandas) | Python 3.10+ | `figures/Figure_2_Consolidated_Mutational_Landscape.png` |
+| **Figure 3** | Pan-Cancer Oncoplot Waterfall | R (maftools) | maftools v2.18 | `figures/Figure_3_Oncoplot_Waterfall.png` |
+| **Figure 4** | Ti/Tv Substitution Spectrum & VAF Distribution | R (maftools) / Python (numpy) | Python / R | `figures/Figure_4_Mutational_Signatures_and_VAF.png` |
+| **Figure 5** | Pairwise Co-Occurrence & Mutual Exclusivity Heatmap | Python (matplotlib, scipy) | SciPy >= 1.10 | `figures/Figure_5_CoOccurrence_and_Mutual_Exclusivity.png` |
+| **Figure 6** | Protein Structural Domain & Hotspot Lollipop Mapping | R (maftools) | maftools v2.18 | `figures/Figure_6_Structural_Mapping_Lollipop_Fixed.png` |
+| **Figure 7** | SIFT/PolyPhen Consensus Overlap & Recurrent Hotspots | Python (matplotlib-venn, matplotlib) | Python 3.10+ | `figures/Figure_7_InSilico_Pathogenicity_and_Hotspots_Fixed.png` |
+| **Figure 8** | Kaplan-Meier Survival Curves & Firth Penalized Forest Plot | Python (matplotlib, scipy) / R (logistf, survival) | R v4.3 / Python | `figures/Figure_8_Survival_and_TMB_Adjustment.png` |
+| **Figure S1**| Cohort-Specific Alteration Frequency Across 33 TCGA Lineages | Python (matplotlib, pandas) | Python 3.10+ | `figures/Figure_S1_All_16_Genes_Mutational_Landscape.png` |
+
+---
+
 ## 🚀 One-Click Reproduction Guide
 
 To regenerate all primary figures, analytical tables, and supplementary datasets, run the following standalone Python scripts from the root directory:

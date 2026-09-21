@@ -1,8 +1,12 @@
-Cohort,Primary Cancer Type,Total (N),Clock-Mutant (n),Wild-Type (n),OS HR,OS 95% CI,OS P-value,PFI HR,PFI 95% CI,PFI P-value
-UCEC,Uterine Corpus Endometrial,475,142,333,0.43,0.24-0.77,0.0035,0.4,0.24-0.66,0.0002
-BLCA,Bladder Urothelial Carcinoma,431,107,324,0.66,0.46-0.93,0.0172,0.57,0.40-0.83,0.0028
-STAD,Stomach Adenocarcinoma,468,107,361,0.69,0.48-0.99,0.0408,0.73,0.49-1.08,0.1161
-LUAD,Lung Adenocarcinoma,622,94,528,0.71,0.48-1.05,0.0855,0.81,0.58-1.14,0.229
-KIRC,Kidney Renal Clear Cell,626,31,595,1.98,1.15-3.42,0.0121,2.39,1.42-4.00,0.0007
-SKCM,Skin Cutaneous Melanoma,105,30,75,1.29,0.63-2.66,0.4766,1.15,0.64-2.07,0.6371
-PAN-CANCER,Combined TCGA Cohort,9850,1092,8758,0.94,0.84-1.04,0.1749,0.91,0.82-1.01,0.0812
+Cohort,Primary Cancer Type,Total (N),Clock-Mutant (n),Wild-Type (n),Unadjusted OS HR (95% CI),Unadjusted OS P,TMB-Adjusted OS HR (95% CI),TMB-Adjusted OS P
+UCEC,Uterine Corpus Endometrial Carcinoma,475,142,333,0.43 (0.24 - 0.77),0.0045,0.64 (0.29 - 1.42),0.2741
+BLCA,Bladder Urothelial Carcinoma,433,107,326,0.67 (0.47 - 0.94),0.0224,0.89 (0.60 - 1.30),0.5359
+STAD,Stomach Adenocarcinoma,468,107,361,0.69 (0.48 - 0.99),0.0421,0.82 (0.53 - 1.27),0.3798
+LUAD,Lung Adenocarcinoma,622,94,528,0.71 (0.48 - 1.05),0.0864,0.68 (0.45 - 1.04),0.0729
+HNSC,Head and Neck Squamous Cell Carcinoma,582,72,510,0.74 (0.49 - 1.10),0.1308,0.66 (0.44 - 0.99),0.0447
+BRCA,Breast Invasive Carcinoma,913,50,863,0.79 (0.35 - 1.80),0.5731,0.66 (0.28 - 1.53),0.3318
+LUSC,Lung Squamous Cell Carcinoma,585,112,473,0.88 (0.65 - 1.20),0.4271,0.93 (0.68 - 1.28),0.6770
+COAD,Colon Adenocarcinoma,331,81,250,1.11 (0.70 - 1.77),0.6534,0.95 (0.53 - 1.71),0.8611
+SKCM,Skin Cutaneous Melanoma,458,153,305,1.16 (0.88 - 1.54),0.2860,1.55 (1.14 - 2.11),0.0055
+KIRC,Kidney Renal Clear Cell Carcinoma,626,31,595,1.98 (1.15 - 3.42),0.0138,1.13 (0.60 - 2.13),0.7000
+PAN-CANCER,Combined TCGA Pan-Cancer Cohort,10205,1215,8990,1.08 (0.97 - 1.20),0.1514,0.67 (0.59 - 0.76),< 0.0001
